@@ -1,0 +1,784 @@
+C:\projects\Graduation Project\usedBooks\usedBooks\obj\Debug\usedBooks.csprojAssemblyReference.cache
+C:\projects\Graduation Project\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\usedBooks.dll.config
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\usedBooks.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\usedBooks.pdb
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\csc.exe
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\csc.rsp
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\csi.exe
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\csi.rsp
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\vbc.exe
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.barcodes.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.forms.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.io.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.kernel.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.layout.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.pdfa.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.sign.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.styledxmlparser.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.svg.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itextsharp.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itextsharp.licensekey.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itextsharp.pdfa.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itextsharp.xmlworker.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\WebGrease.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.barcodes.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.forms.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.io.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.kernel.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.layout.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.pdfa.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.sign.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.styledxmlparser.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\itext.svg.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\Graduation Project\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+C:\projects\Graduation Project\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+C:\projects\Graduation Project\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+C:\usedBooks\usedBooks\bin\usedBooks.dll.config
+C:\usedBooks\usedBooks\bin\usedBooks.dll
+C:\usedBooks\usedBooks\bin\usedBooks.pdb
+C:\usedBooks\usedBooks\bin\roslyn\csc.exe
+C:\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+C:\usedBooks\usedBooks\bin\roslyn\csc.rsp
+C:\usedBooks\usedBooks\bin\roslyn\csi.exe
+C:\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+C:\usedBooks\usedBooks\bin\roslyn\csi.rsp
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+C:\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\usedBooks\usedBooks\bin\roslyn\vbc.exe
+C:\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+C:\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+C:\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+C:\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+C:\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+C:\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+C:\usedBooks\usedBooks\bin\WebGrease.dll
+C:\usedBooks\usedBooks\bin\itext.barcodes.xml
+C:\usedBooks\usedBooks\bin\itext.forms.xml
+C:\usedBooks\usedBooks\bin\itext.io.xml
+C:\usedBooks\usedBooks\bin\itext.kernel.xml
+C:\usedBooks\usedBooks\bin\itext.layout.xml
+C:\usedBooks\usedBooks\bin\itext.pdfa.xml
+C:\usedBooks\usedBooks\bin\itext.sign.xml
+C:\usedBooks\usedBooks\bin\itext.styledxmlparser.xml
+C:\usedBooks\usedBooks\bin\itext.svg.xml
+C:\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+C:\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+C:\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+C:\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\usedBooks\usedBooks\obj\Debug\usedBooks.csprojAssemblyReference.cache
+C:\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+C:\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+C:\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+C:\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\usedBooks.dll.config
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\usedBooks.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\usedBooks.pdb
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\csc.exe
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\csc.rsp
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\csi.exe
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\csi.rsp
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\vbc.exe
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\WebGrease.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.barcodes.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.forms.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.io.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.kernel.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.layout.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.pdfa.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.sign.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.styledxmlparser.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\itext.svg.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\gra Project\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csprojAssemblyReference.cache
+D:\gra Project\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+D:\gra Project\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+D:\gra Project\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+D:\gra Project\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\usedBooks.dll.config
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\usedBooks.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\usedBooks.pdb
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\csc.exe
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\csc.rsp
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\csi.exe
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\csi.rsp
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\vbc.exe
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\WebGrease.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.barcodes.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.forms.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.io.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.kernel.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.layout.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.pdfa.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.sign.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.styledxmlparser.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\itext.svg.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\project\project v1\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csprojAssemblyReference.cache
+C:\project\project v1\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+C:\project\project v1\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+C:\project\project v1\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+C:\project\project v1\usedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+E:\Saudi2023\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+E:\Saudi2023\usedBooks\usedBooks\bin\usedBooks.dll.config
+E:\Saudi2023\usedBooks\usedBooks\bin\usedBooks.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\usedBooks.pdb
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\csc.exe
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\csc.rsp
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\csi.exe
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\csi.rsp
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\vbc.exe
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+E:\Saudi2023\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+E:\Saudi2023\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\WebGrease.dll
+E:\Saudi2023\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+E:\Saudi2023\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+E:\Saudi2023\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Saudi2023\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Saudi2023\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+E:\Saudi2023\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+E:\Saudi2023\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+E:\Saudi2023\usedBooks\usedBooks\obj\Debug\usedBooks.csprojAssemblyReference.cache
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\usedBooks.dll.config
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\usedBooks.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\usedBooks.pdb
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\csc.exe
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\csc.rsp
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\csi.exe
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\csi.rsp
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\vbc.exe
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\WebGrease.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\obj\Debug\usedBooks.csprojAssemblyReference.cache
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+C:\project\usedBooks\usedBooks\bin\usedBooks.dll.config
+C:\project\usedBooks\usedBooks\bin\usedBooks.dll
+C:\project\usedBooks\usedBooks\bin\usedBooks.pdb
+C:\project\usedBooks\usedBooks\bin\roslyn\csc.exe
+C:\project\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+C:\project\usedBooks\usedBooks\bin\roslyn\csc.rsp
+C:\project\usedBooks\usedBooks\bin\roslyn\csi.exe
+C:\project\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+C:\project\usedBooks\usedBooks\bin\roslyn\csi.rsp
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\project\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\project\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\project\usedBooks\usedBooks\bin\roslyn\vbc.exe
+C:\project\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+C:\project\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+C:\project\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+C:\project\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\project\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+C:\project\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\project\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\project\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\project\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\project\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\project\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\project\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\project\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\project\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+C:\project\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+C:\project\usedBooks\usedBooks\bin\WebGrease.dll
+C:\project\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+C:\project\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+C:\project\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+C:\project\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\project\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\project\usedBooks\usedBooks\obj\Debug\usedBooks.csprojAssemblyReference.cache
+C:\project\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+C:\project\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+C:\project\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+C:\project\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\usedBooks.dll.config
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\usedBooks.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\usedBooks.pdb
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+C:\Users\Administrator\Desktop\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+C:\project\usedBooks\usedBooks\bin\itext.barcodes.xml
+C:\project\usedBooks\usedBooks\bin\itext.forms.xml
+C:\project\usedBooks\usedBooks\bin\itext.io.xml
+C:\project\usedBooks\usedBooks\bin\itext.kernel.xml
+C:\project\usedBooks\usedBooks\bin\itext.layout.xml
+C:\project\usedBooks\usedBooks\bin\itext.pdfa.xml
+C:\project\usedBooks\usedBooks\bin\itext.sign.xml
+C:\project\usedBooks\usedBooks\bin\itext.styledxmlparser.xml
+C:\project\usedBooks\usedBooks\bin\itext.svg.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.barcodes.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.forms.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.io.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.kernel.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.layout.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.pdfa.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.sign.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.styledxmlparser.xml
+C:\Users\W\Downloads\مجلد جديد (3)\usedBooks\usedBooks\bin\itext.svg.xml
+E:\usedBooks\usedBooks\bin\usedBooks.dll.config
+E:\usedBooks\usedBooks\bin\usedBooks.dll
+E:\usedBooks\usedBooks\bin\usedBooks.pdb
+E:\usedBooks\usedBooks\bin\roslyn\csc.exe
+E:\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+E:\usedBooks\usedBooks\bin\roslyn\csc.rsp
+E:\usedBooks\usedBooks\bin\roslyn\csi.exe
+E:\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+E:\usedBooks\usedBooks\bin\roslyn\csi.rsp
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+E:\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+E:\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\usedBooks\usedBooks\bin\roslyn\vbc.exe
+E:\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+E:\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+E:\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+E:\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+E:\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+E:\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+E:\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+E:\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+E:\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+E:\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+E:\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+E:\usedBooks\usedBooks\bin\WebGrease.dll
+E:\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+E:\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+E:\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+E:\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+E:\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CopyComplete
+E:\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+E:\usedBooks\usedBooks\obj\Debug\usedBooks.pdb
+C:\project\UsedBooks\usedBooks\usedBooks\bin\usedBooks.dll.config
+C:\project\UsedBooks\usedBooks\usedBooks\bin\usedBooks.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\usedBooks.pdb
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\csc.exe
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\csc.exe.config
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\csc.rsp
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\csi.exe
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\csi.exe.config
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\csi.rsp
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.Managed.Core.targets
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.AppContext.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Console.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Compression.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.IO.Pipes.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.AccessControl.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Claims.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Security.Principal.Windows.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.ValueTuple.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XmlDocument.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\vbc.exe
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\vbc.exe.config
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\vbc.rsp
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe
+C:\project\UsedBooks\usedBooks\usedBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Antlr3.Runtime.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Newtonsoft.Json.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\System.Web.Optimization.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\WebGrease.dll
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.barcodes.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.forms.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.io.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.kernel.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.layout.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.pdfa.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.sign.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.styledxmlparser.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\itext.svg.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\System.Web.Optimization.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Newtonsoft.Json.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Antlr3.Runtime.pdb
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\project\UsedBooks\usedBooks\usedBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\project\UsedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.AssemblyReference.cache
+C:\project\UsedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.CoreCompileInputs.cache
+C:\project\UsedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.csproj.Up2Date
+C:\project\UsedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.dll
+C:\project\UsedBooks\usedBooks\usedBooks\obj\Debug\usedBooks.pdb

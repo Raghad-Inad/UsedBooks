@@ -1,0 +1,189 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="usedBooks.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en; ar">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Webpage Title -->
+    <title>Used Books</title>
+
+    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/fontawesome-all.min.css" rel="stylesheet">
+    <link href="css/swiper.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+
+    <!-- Favicons -->
+    
+    <%--<link href="~/images/favicon-remove.png" rel="icon" />--%>
+    <link href="images/bookLogo2.png" rel="icon" style="width:250px; height:200px"/>
+
+    <%--<link href="~/images/favicon.png" rel="favicon" />--%>
+
+    
+</head>
+<body>
+    <form runat="server">
+       
+         <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <!-- Navigation -->
+        <nav id="navbarExample" class="navbar navbar-expand-lg fixed-top navbar-dark" aria-label="Main navigation">
+            <div class="container">
+
+                <%--<!-- Image Logo -->
+                <a class="navbar-brand logo-image" href="Home.aspx"><img src="images/bookLogo.png" alt="alternative" style="width:250px; height:200px"></a>--%>
+
+                <!-- Text Logo - Use this if you don't have a graphic logo -->
+                 <a class="navbar-brand logo-text" href="Home.aspx" style="font-size: 40px">Used books</a> 
+
+                <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                
+                <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+                    <ul class="navbar-nav ms-auto navbar-nav-scroll">
+                        <li class="nav-item">
+                            <a class="nav-link" href="Home.aspx"><span class="auto-style1">Home</span></a>
+                        </li>
+                         <li class="nav-item">
+                            <a class="nav-item nav-link" href="Home.aspx#about">About us</a>
+                        </li>
+                      
+                       
+                       <li class="nav-item">
+                            <a class="nav-item nav-link" href="Home.aspx#faq">Q/A</a>
+                        </li>
+                        <asp:Panel ID="PanelOrder" runat="server">
+                            <li class="nav-item">
+                            <a class="nav-item nav-link" href="Order.aspx">Orders</a>
+                        </li>
+                        </asp:Panel>
+                          
+
+                        <asp:Panel ID="PanelMang" runat="server">
+                            <li class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Management</a>
+                            <ul class="dropdown-menu" id="dropdown">
+                                <li><a class="dropdown-item" href="userManagement.aspx">users management</a></li>
+                                <li>
+                                    <div class="dropdown-divider"></div>
+                                </li>
+                                <li><a class="dropdown-item" href="bookManagement.aspx">books management</a></li>
+                                <li>
+                                    <div class="dropdown-divider"></div>
+                                </li>
+                                <li><a class="dropdown-item" href="orderManagement.aspx">orders management</a></li>
+
+                            </ul>
+                        </li>
+                        </asp:Panel>
+                        <asp:Panel ID="PanelService" runat="server">
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Service</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="doners.aspx">Donate</a></li>
+                                    <li>
+                                        <div class="dropdown-divider"></div>
+                                    </li>
+                                    <li><a class="dropdown-item" href="needy.aspx">buy</a></li>
+                                </ul>
+                            </li>
+                             
+                        </asp:Panel>
+                        <asp:Panel ID="PanelNewOrders" runat="server">
+                            <li class="nav-item">
+                                <a class="nav-item nav-link" href="newOrders.aspx">New Order</a>
+                            </li>
+                            </asp:Panel>
+                        <asp:Panel ID="PanelLogin" runat="server">
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
+                                    Login</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="AdminloginPage">Administrator</a></li>
+                                    <li>
+                                        <div class="dropdown-divider"></div>
+                                    </li>
+                                    <li><a class="dropdown-item" href="loginPage.aspx">User</a></li>
+                                </ul>
+                            </li>
+                        </asp:Panel>
+                        <asp:Panel ID="PanelSignUp" runat="server">
+                            <li class="nav-item">
+                                <a class="nav-item nav-link" href="signupPage.aspx">Sign Up</a>
+                            </li>
+                        </asp:Panel>
+                        
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.aspx">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            <asp:LinkButton class="nav-link " ID="LinkChang" runat="server"  OnClick="LinkChang_Click"  Text="Change Password"></asp:LinkButton>
+                        </li>
+                      <li class="nav-item">
+                            <asp:LinkButton class="nav-link " ID="linkLogout" runat="server"  OnClick="linkLogout_Click" meta:resourcekey="linkLogoutResource1" Text="Log Out"></asp:LinkButton>
+                        </li>
+                         
+                        <asp:LinkButton class="nav-link scrollto" ID="linkMsg" runat="server" Font-Size="16px" Font-Bold="true" Visible="False" OnClick="linkMsg_Click" meta:resourcekey="linkMsgResource1" Text="Hello user"></asp:LinkButton>
+
+                    </ul>
+                    
+                </div> <!-- end of navbar-collapse -->
+            </div> <!-- end of container -->
+        </nav> <!-- end of navbar -->
+        <!-- end of navigation -->
+
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+               <!-- Copyright -->
+
+        <div class="copyright bg-dark-blue">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <br /> 
+                        <p class="p-small">© Copyright. All Rights Reserved  <a href="https://www.uhb.edu.sa/Pages/Home.aspx">UOHB</a></p>
+                    </div> <!-- end of col -->
+                </div> <!-- enf of row -->
+            </div> <!-- end of container -->
+        </div> <!-- end of copyright --> 
+        <!-- end of copyright -->
+            </footer>
+        </div>
+         <!-- Scripts -->
+        <script src="Scripts/jquery-3.3.1.js"></script>
+        <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+        <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
+        <script src="js/purecounter.min.js"></script> <!-- Purecounter counter for statistics numbers -->
+        <script src="js/replaceme.min.js"></script> <!-- ReplaceMe for rotating text -->
+        <script src="js/scripts.js"></script> <!-- Custom scripts -->
+    </form>
+</body>
+</html>
